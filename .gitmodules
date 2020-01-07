@@ -1,3 +1,6 @@
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "jaivardhan94.github.io"]
+	path = jaivardhan94.github.io
+	url = git@github.com:jaivardhan94/jaivardhan94.github.io.git
